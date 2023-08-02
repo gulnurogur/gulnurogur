@@ -51,11 +51,3 @@
 <img src="https://raw.githubusercontent.com/gulnurogur/gulnurogur/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/21i6vqmpwdl564jxkv5lpyd4i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
