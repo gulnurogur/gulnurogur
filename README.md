@@ -1,5 +1,5 @@
 
-<img align="right" height="250" src="https://github.com/gulnurogur/gulnurogur/blob/master/code_girl.gif?raw=true"  />
+<img align="right" height="225" src="https://github.com/gulnurogur/gulnurogur/blob/master/code_girl.gif?raw=true"  />
 <h4 align="left">Hi.👋🏼 As you can see my name is Gülnur.🌹</h4>
 <p align="left" >I am interested in data science.🧙‍♀️<br>I plan to share my hobbies and my work here.🎤<br>That's all for now...🤙🏻<br> See you as you progress.🐢</p>
 <p align="left" > Contact me: <a href="mailto:gulnurogur@gmail.com">gulnurogur@gmail.com</a> </p>
@@ -7,7 +7,6 @@
 
 ###
 
-<br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -29,7 +28,6 @@
 </div>
 
 ###
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gulnurogur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
